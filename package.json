@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/greglas/palindrome/issues"
   },
-  "homepage": "https://github.com/greglas/palindrome#readme"
+  "homepage": "https://github.com/greglas/palindrome#readme",
+  "directories": {
+    "test": "test"
+  }
 }
